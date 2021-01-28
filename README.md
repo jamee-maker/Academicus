@@ -11,8 +11,12 @@ Click link to go to game repo: https://github.com/jamee-maker/FSW-Text-Based-Adv
   </ul>
   
 ### 2. Description of the application
-
+<div>
 This is a text-based adventure game in which a user is able to make decisions that have an impact on the storyline.
 Throughout the game, the user has to navigate and solve problems that allow the user to advance further. 
 
-![image](Assets/Intro.gif)
+<img src="Assets/Intro.gif" width="700" height="400">
+</div>
+
+
+
