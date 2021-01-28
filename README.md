@@ -25,6 +25,6 @@ This is a text-based adventure game in which a user is able to make decisions th
 
 Throughout the game, the user has to navigate and solve problems that allow the user to advance further. 
 
-<img src="Assets/navigate.gif">
+<img src="Assets/navigate.gif" width="700" height="400">
 
 
