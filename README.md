@@ -72,7 +72,10 @@ Throughout the game, the user has to navigate and solve problems that allow the 
    
    
    I really enjoyed coming up with different scenarios and solving the problems that came with them accordingly.
-   Another favorite snippet is that of a feedback survey I added to the game whenever the user reaches the gameover function, meaning they either won or lost.
+   Another favorite snippet is that of a feedback survey I added to the game whenever the user reaches the gameover function:
+   
+   
+   <img src="Assets/feedback loop.gif" width="700" height="400">
    
    
    
