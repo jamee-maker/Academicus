@@ -1,5 +1,5 @@
 # Academicus
-Command-Line Text-Based Adventure Game.
+Text-Based Adventure Game.
 
 
 ### 1. Running the application
