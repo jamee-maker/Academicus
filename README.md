@@ -17,6 +17,8 @@ This is a text-based adventure game in which a user is able to make decisions th
   
 
 <img src="Assets/Intro.gif" width="700" height="400">
+
+
 </div>
 
 
@@ -29,5 +31,6 @@ Throughout the game, the user has to navigate and solve problems that allow the 
 
 
 <img src="Assets/navigate.gif" width="700" height="400">
+</div>
 
 
