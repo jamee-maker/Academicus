@@ -45,7 +45,7 @@ Throughout the game, the user has to navigate and solve problems that allow the 
    
    <img src="Assets/stationary dice .gif" width="700" height="400">
    
-   In this scenario the dice is stationary, which means that the number the user has to guess remains constant.
+   In this scenario the dice is laying stationary on the ground, which means that the number the user has to guess remains constant.
    
    <img src="Assets/stat dice.png" width="700" height="400">
   
