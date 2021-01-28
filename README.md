@@ -65,6 +65,14 @@ Throughout the game, the user has to navigate and solve problems that allow the 
    
    
    Therefore here, as you can see above, we need to place our dice roll function within the while loop to reflect the change in circumstance.
+   </div>
+   
+   
+   <div>
+   
+   
+   I really enjoyed comming up with different scenarios and solving the problems that come with them accordingly.
+   
   
 
 
