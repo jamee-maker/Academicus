@@ -55,7 +55,16 @@ Throughout the game, the user has to navigate and solve problems that allow the 
    
    Dice roll scenario 2
    
+   <img src="Assets/var dice.gif" width="700" height="400">
    
+   
+   However in this scenario, the dice is moving constantly. That means that the number to be guessed is in fact changing through every iteration.
+   
+   
+   <img src="Assets/var dice snap.png" width="700" height="400"> 
+   
+   
+   Therefore here, as you can see above, we need to place our dice roll function within the while loop to reflect the change in circumstance.
   
 
 
