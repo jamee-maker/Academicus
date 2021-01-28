@@ -71,7 +71,10 @@ Throughout the game, the user has to navigate and solve problems that allow the 
    <div>
    
    
-   I really enjoyed comming up with different scenarios and solving the problems that come with them accordingly.
+   I really enjoyed coming up with different scenarios and solving the problems that came with them accordingly.
+   Another favorite snippet is that of a feedback survey I added to the game whenever the user reaches the gameover function, meaning they either won or lost.
+   
+   
    
   
 
