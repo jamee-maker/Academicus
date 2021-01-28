@@ -43,7 +43,7 @@ Throughout the game, the user has to navigate and solve problems that allow the 
   
    Dice roll scenario 1
    
-   <img src="Assets/stationary dice.gif" width="700" height="400">
+   <img src="Assets/stationary dice .gif" width="700" height="400">
   
 
 
