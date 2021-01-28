@@ -48,6 +48,14 @@ Throughout the game, the user has to navigate and solve problems that allow the 
    In this scenario the dice is laying stationary on the ground, which means that the number the user has to guess remains constant.
    
    <img src="Assets/stat dice.png" width="700" height="400">
+   
+   
+   Which means that the dice roll fucntion has to be called before the while loop executes, so that the number remains the same throuhout the loop.
+   
+   
+   Dice roll scenario 2
+   
+   
   
 
 
