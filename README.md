@@ -33,4 +33,17 @@ Throughout the game, the user has to navigate and solve problems that allow the 
 <img src="Assets/navigate.gif" width="700" height="400">
 </div>
 
+### 3. Remarks
+<div>
+  This was the first time I had ever used javascript to create an application. With that being said, I am extremely pleased with the work.
+  I spent a lot of time on the code and in paricular, I wanted to give the user as many options as possible, so as to simulate actually going on an adventure       where anything could happen.
+  
+  
+  One of my favorite snippets of code is in the dice roll function. In the game, there are two scenario where the user has to guess a number between 1 and 6:
+  
+   Dice roll scenario 1:
+   
+   <img src="">
+  
+
 
