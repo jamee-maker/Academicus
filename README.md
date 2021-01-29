@@ -36,7 +36,7 @@ Throughout the game, the user has to navigate and solve problems that allow the 
 ### 3. Remarks
 <div>
   
-  This was the first time I had ever used javascript to create an application. With that being said, I am extremely pleased with the work.
+  This was the first time I ever created an application. With that being said, I am extremely pleased with the work.
   I spent a lot of time on the code and in particular, I wanted to give the user as many options as possible, so as to simulate actually going on an adventure     where anything could happen. One of my favorite snippets of code is in the dice roll function. In the game, there are two scenarios where the user has to guess   a number between 1 and 6:
   
    Dice roll scenario 1
