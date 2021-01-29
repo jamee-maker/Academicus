@@ -37,7 +37,7 @@ Throughout the game, the user has to navigate and solve problems that allow the 
 <div>
   
   This was the first time I had ever used javascript to create an application. With that being said, I am extremely pleased with the work.
-  I spent a lot of time on the code and in particular, I wanted to give the user as many options as possible, so as to simulate actually going on an adventure     where anything could happen. One of my favorite snippets of code is in the dice roll function. In the game, there are two scenario where the user has to guess   a number between 1 and 6:
+  I spent a lot of time on the code and in particular, I wanted to give the user as many options as possible, so as to simulate actually going on an adventure     where anything could happen. One of my favorite snippets of code is in the dice roll function. In the game, there are two scenarios where the user has to guess   a number between 1 and 6:
   
    Dice roll scenario 1
    
@@ -82,6 +82,11 @@ Throughout the game, the user has to navigate and solve problems that allow the 
   
   
   <img src="Assets/feedback pic.png" width="700" height="400">
+  
+  
+  
+  As you can see in the code above, the user is asked to rate the game from 1 to 10. If their rating is 5 or more, it will log "Thanks" and exit.
+  However, if it is less than 5 it will ask them "How can we improve the game?". If their input is 5 letters or more, the user will be thanked for taking the       time to leave feedback. Otherwise it will just exit.
    
    </div>
    
