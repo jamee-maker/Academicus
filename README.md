@@ -35,11 +35,9 @@ Throughout the game, the user has to navigate and solve problems that allow the 
 
 ### 3. Remarks
 <div>
+  
   This was the first time I had ever used javascript to create an application. With that being said, I am extremely pleased with the work.
-  I spent a lot of time on the code and in particular, I wanted to give the user as many options as possible, so as to simulate actually going on an adventure     where anything could happen.
-  
-  
-  One of my favorite snippets of code is in the dice roll function. In the game, there are two scenario where the user has to guess a number between 1 and 6:
+  I spent a lot of time on the code and in particular, I wanted to give the user as many options as possible, so as to simulate actually going on an adventure     where anything could happen. One of my favorite snippets of code is in the dice roll function. In the game, there are two scenario where the user has to guess   a number between 1 and 6:
   
    Dice roll scenario 1
    
@@ -72,11 +70,20 @@ Throughout the game, the user has to navigate and solve problems that allow the 
    
    
    I really enjoyed coming up with different scenarios and solving the problems that came with them accordingly.
-   Another favorite snippet is that of a feedback survey I added to the game whenever the user reaches the gameover function:
+   Another favorite snippet of mine is a feedback survey I added to the game whenever the user reaches the gameover function:
    
    
    <img src="Assets/feedback loop.gif" width="700" height="400">
    
+  
+  
+  I got the idea for this from my google home assistant. It periodically asks me for feedback in such a manner, and I then it hit me that somebody at google probably writes the code for that.
+  
+  
+  
+  <img src="Assets/feedback pic.png" width="700" height="400">
+   
+   </div>
    
    
   
