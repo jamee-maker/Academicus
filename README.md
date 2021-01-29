@@ -48,7 +48,7 @@ Throughout the game, the user has to navigate and solve problems that allow the 
    <img src="Assets/stat dice.png" width="700" height="400">
    
    
-   Which means that the dice roll fucntion has to be called before the while loop executes, so that the number remains the same throuhout the loop.
+   Therefore the dice roll function has to be called before the while loop executes, so that the number remains the same throughout the game loop.
    
    
    Dice roll scenario 2
@@ -77,7 +77,7 @@ Throughout the game, the user has to navigate and solve problems that allow the 
    
   
   
-  I got the idea for this from my google home assistant. It periodically asks me for feedback in such a manner, and I then it hit me that somebody at google probably writes the code for that.
+  I got the idea for this from my google home assistant. It periodically asks me for feedback in such a manner, and then it hit me that somebody at google probably writes the code for that.
   
   
   
