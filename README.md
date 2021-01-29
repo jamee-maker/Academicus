@@ -93,6 +93,8 @@ Throughout the game, the user has to navigate and solve problems that allow the 
    ### 4. Acknowledgements 
    
 This was pretty much all me. I used what I learned at Pursuit 7.1 module 1 and my previous labs. I have to say thanks to Jimmy Byess and Myra Smith for being awesome instructors! I used everthing they taught us, and they did a great job of teaching the classes.
+
+Link to my Trello Board: https://trello.com/b/iTTBcpNS/text-based-adventure-project-plan
    
    
   
