@@ -90,6 +90,10 @@ Throughout the game, the user has to navigate and solve problems that allow the 
    
    </div>
    
+   ### 4. Acknowledgements 
+   
+This was pretty much all me. From what I understood, the project was mostly about creating a story, so once I figured out the skeleton of my code, adding the meat to the matter was straightforward so I didnt have to use anything too fancy. I used what I learned at Pursuit 7.1 module 1. I have to say thanks to Jimmy Byess and Myra Smith for being awesome instructors! I used everthing they taught us, and they did a great job of teaching the classes.
+   
    
   
 
