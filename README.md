@@ -3,7 +3,7 @@ Text-Based Adventure Game.
 
 
 ### 1. Running the application
-Click link to go to game repo: https://github.com/jamee-maker/FSW-Text-Based-Adventure
+Link to game repo: https://github.com/jamee-maker/FSW-Text-Based-Adventure
 <ul>
   <li>Clone the repo</li>
   <li>In your terminal, cd to the cloned repo and run npm install</li>
@@ -92,7 +92,7 @@ Throughout the game, the user has to navigate and solve problems that allow the 
    
    ### 4. Acknowledgements 
    
-This was pretty much all me. I used what I learned at Pursuit 7.1 module 1. I have to say thanks to Jimmy Byess and Myra Smith for being awesome instructors! I used everthing they taught us, and they did a great job of teaching the classes.
+This was pretty much all me. I used what I learned at Pursuit 7.1 module 1 and my previous labs. I have to say thanks to Jimmy Byess and Myra Smith for being awesome instructors! I used everthing they taught us, and they did a great job of teaching the classes.
    
    
   
