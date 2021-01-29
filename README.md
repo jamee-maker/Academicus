@@ -86,7 +86,7 @@ Throughout the game, the user has to navigate and solve problems that allow the 
   
   
   As you can see in the code above, the user is asked to rate the game from 1 to 10. If their rating is 5 or more, it will log "Thanks" and exit.
-  However, if it is less than 5 it will ask them "How can we improve the game?". If their input is 5 letters or more, the user will be thanked for taking the       time to leave feedback. Otherwise it will just exit.
+  However, if it is less than 5 it will ask them "How can we improve the game?". If their input is 5 letters or more, the user will be thanked for taking the       time to leave feedback. Otherwise, it will just exit.
    
    </div>
    
